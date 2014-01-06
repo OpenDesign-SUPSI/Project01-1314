@@ -190,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38783046"
-     inkscape:cx="989.15043"
-     inkscape:cy="121.43387"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="560.09228"
+     inkscape:cy="467.69059"
      inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
@@ -202,7 +202,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true">
     <sodipodi:guide
        orientation="0,1"
        position="478.34646,974.40945"
@@ -217,10 +218,6 @@
        id="guide24418" />
     <sodipodi:guide
        orientation="0,1"
-       position="974.40945,106.29921"
-       id="guide24420" />
-    <sodipodi:guide
-       orientation="0,1"
        position="389.76378,938.97638"
        id="guide24422" />
     <sodipodi:guide
@@ -231,6 +228,14 @@
        orientation="0,1"
        position="230.31496,921.25984"
        id="guide25257" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="332.61957,257.84463"
+       id="guide3345" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="332.61957,337.77646"
+       id="guide3347" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -240,7 +245,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -297,14 +302,20 @@
        height="198.10806"
        width="299.52887"
        id="rect3190"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        x="124.0941"
        y="152.51514"
        id="text6293"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan4079"
          x="124.0941"
@@ -315,42 +326,60 @@
        width="299.83835"
        height="31.591372"
        x="118.43713"
-       y="170.77278" />
+       y="170.77278"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="203.07281"
        x="118.43713"
        height="31.591372"
        width="299.83835"
        id="rect4444"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4446"
        width="299.83835"
        height="31.591372"
        x="118.43713"
-       y="235.37285" />
+       y="235.37285"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="267.67288"
        x="118.43713"
        height="31.591372"
        width="299.83835"
        id="rect4448"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4450"
        width="299.83835"
        height="31.591372"
        x="118.43713"
-       y="299.9729" />
+       y="299.9729"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        x="33.812931"
        y="189.19746"
        id="text4675"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan4677"
          x="33.812931"
@@ -361,7 +390,10 @@
        y="214.6225"
        x="49.81879"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="214.6225"
          x="49.81879"
          id="tspan4681"
@@ -376,7 +408,10 @@
        x="49.81879"
        y="247.02153"
        id="text4685"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan4687"
          x="49.81879"
@@ -391,7 +426,10 @@
        y="280.48206"
        x="76.563568"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="280.48206"
          x="76.563568"
          id="tspan4693"
@@ -406,7 +444,10 @@
        x="76.575943"
        y="312.78207"
        id="text4697"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          id="tspan4701"
          sodipodi:role="line"
          x="76.575943"
@@ -421,14 +462,20 @@
        width="299.52887"
        height="198.10806"
        x="419.13852"
-       y="131.72792" />
+       y="131.72792"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text4721"
        y="152.51514"
        x="424.64111"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="152.51514"
          x="424.64111"
          id="tspan4723"
@@ -439,102 +486,138 @@
        height="31.591372"
        width="299.83835"
        id="rect4725"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4727"
        width="299.83835"
        height="31.591372"
        x="418.98413"
-       y="203.07281" />
+       y="203.07281"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="235.37285"
        x="418.98413"
        height="31.591372"
        width="299.83835"
        id="rect4729"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4731"
        width="299.83835"
        height="31.591372"
        x="418.98413"
-       y="267.67288" />
+       y="267.67288"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="299.9729"
        x="418.98413"
        height="31.591372"
        width="299.83835"
        id="rect4733"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="379.17175"
        x="118.34425"
        height="17.193651"
        width="299.93112"
        id="rect4791"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4793"
        width="299.93112"
        height="17.193651"
        x="418.98425"
-       y="379.17175" />
+       y="379.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text4795"
        y="390.39758"
-       x="61.41296"
+       x="55.41296"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan4801"
-         x="61.41296"
-         y="390.39758">Activity 01</tspan></text>
+         x="55.41296"
+         y="390.39758">Activity 01</tspan><tspan
+         sodipodi:role="line"
+         x="55.41296"
+         y="404.14758"
+         id="tspan3185" /></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3139"
        width="299.93112"
        height="17.193651"
        x="713.61975"
-       y="379.17175" />
+       y="379.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="379.17175"
        x="1014.2596"
        height="17.193651"
        width="299.93112"
        id="rect3141"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="379.17175"
        x="1308.8954"
        height="17.193651"
        width="299.93112"
        id="rect3143"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3145"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="379.17175" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="131.72792"
        x="716.77612"
        height="198.10806"
        width="299.52887"
        id="rect3075"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        x="722.27869"
        y="152.51514"
        id="text3077"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3079"
          x="722.27869"
@@ -545,49 +628,70 @@
        width="299.83835"
        height="31.591372"
        x="716.6217"
-       y="170.77278" />
+       y="170.77278"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="203.07281"
        x="716.6217"
        height="31.591372"
        width="299.83835"
        id="rect3083"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3085"
        width="299.83835"
        height="31.591372"
        x="716.6217"
-       y="235.37285" />
+       y="235.37285"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="267.67288"
        x="716.6217"
        height="31.591372"
        width="299.83835"
        id="rect3087"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3089"
        width="299.83835"
        height="31.591372"
        x="716.6217"
-       y="299.9729" />
+       y="299.9729"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3091"
        width="299.52887"
        height="198.10806"
        x="1014.4139"
-       y="131.72792" />
+       y="131.72792"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text3093"
        y="152.51514"
        x="1019.9164"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="152.51514"
          x="1019.9164"
          id="tspan3095"
@@ -598,49 +702,70 @@
        height="31.591372"
        width="299.83835"
        id="rect3097"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3099"
        width="299.83835"
        height="31.591372"
        x="1014.2593"
-       y="203.07281" />
+       y="203.07281"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="235.37285"
        x="1014.2593"
        height="31.591372"
        width="299.83835"
        id="rect3101"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3103"
        width="299.83835"
        height="31.591372"
        x="1014.2593"
-       y="267.67288" />
+       y="267.67288"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="299.9729"
        x="1014.2593"
        height="31.591372"
        width="299.83835"
        id="rect3105"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="131.72792"
        x="1312.0516"
        height="198.10806"
        width="299.52887"
        id="rect3107"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        x="1317.5542"
        y="152.51514"
        id="text3109"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3111"
          x="1317.5542"
@@ -651,111 +776,82 @@
        width="299.83835"
        height="31.591372"
        x="1311.8971"
-       y="170.77278" />
+       y="170.77278"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="203.07281"
        x="1311.8971"
        height="31.591372"
        width="299.83835"
        id="rect3115"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3117"
        width="299.83835"
        height="31.591372"
        x="1311.8971"
-       y="235.37285" />
+       y="235.37285"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="267.67288"
        x="1311.8971"
        height="31.591372"
        width="299.83835"
        id="rect3119"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3121"
        width="299.83835"
        height="31.591372"
        x="1311.8971"
-       y="299.9729" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.51540464;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3123"
-       width="299.52887"
-       height="198.10806"
-       x="1609.6895"
-       y="131.72792" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3125"
-       y="152.51514"
-       x="1615.192"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         y="152.51514"
-         x="1615.192"
-         id="tspan3127"
-         sodipodi:role="line">Documentation</tspan></text>
-    <rect
-       y="170.77278"
-       x="1609.5349"
-       height="31.591372"
-       width="299.83835"
-       id="rect3129"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3131"
-       width="299.83835"
-       height="31.591372"
-       x="1609.5349"
-       y="203.07281" />
-    <rect
-       y="235.37285"
-       x="1609.5349"
-       height="31.591372"
-       width="299.83835"
-       id="rect3133"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3135"
-       width="299.83835"
-       height="31.591372"
-       x="1609.5349"
-       y="267.67288" />
-    <rect
        y="299.9729"
-       x="1609.5349"
-       height="31.591372"
-       width="299.83835"
-       id="rect3137"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3149"
        width="299.93112"
        height="17.193651"
        x="118.34425"
-       y="459.17175" />
+       y="459.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="459.17175"
        x="418.98425"
        height="17.193651"
        width="299.93112"
        id="rect3151"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="61.41296"
+       x="55.41296"
        y="470.39758"
        id="text3153"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="470.39758"
-         x="61.41296"
+         x="55.41296"
          id="tspan3155"
          sodipodi:role="line">Activity 02</tspan></text>
     <rect
@@ -764,52 +860,63 @@
        height="17.193651"
        width="299.93112"
        id="rect3157"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3159"
        width="299.93112"
        height="17.193651"
        x="1014.2596"
-       y="459.17175" />
+       y="459.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3161"
        width="299.93112"
        height="17.193651"
        x="1308.8954"
-       y="459.17175" />
-    <rect
        y="459.17175"
-       x="1609.5352"
-       height="17.193651"
-       width="299.93112"
-       id="rect3163"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="539.17175"
        x="118.34425"
        height="17.193651"
        width="299.93112"
        id="rect3167"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3169"
        width="299.93112"
        height="17.193651"
        x="418.98425"
-       y="539.17175" />
+       y="539.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text3171"
        y="550.39758"
-       x="61.41296"
+       x="55.41296"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3173"
-         x="61.41296"
+         x="55.41296"
          y="550.39758">Activity 03</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -817,51 +924,62 @@
        width="299.93112"
        height="17.193651"
        x="713.61975"
-       y="539.17175" />
+       y="539.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="539.17175"
        x="1014.2596"
        height="17.193651"
        width="299.93112"
        id="rect3177"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="539.17175"
        x="1308.8954"
        height="17.193651"
        width="299.93112"
        id="rect3179"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3181"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="539.17175" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3185"
        width="299.93112"
        height="17.193651"
        x="118.34425"
-       y="619.17175" />
+       y="619.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        y="619.17175"
        x="418.98425"
        height="17.193651"
        width="299.93112"
        id="rect3187"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="61.41296"
+       x="55.41296"
        y="630.39758"
        id="text3189"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          y="630.39758"
-         x="61.41296"
+         x="55.41296"
          id="tspan3191"
          sodipodi:role="line">Activity 04</tspan></text>
     <rect
@@ -870,398 +988,483 @@
        height="17.193651"
        width="299.93112"
        id="rect3193"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3195"
        width="299.93112"
        height="17.193651"
        x="1014.2596"
-       y="619.17175" />
+       y="619.17175"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3197"
        width="299.93112"
        height="17.193651"
        x="1308.8954"
-       y="619.17175" />
-    <rect
        y="619.17175"
-       x="1609.5352"
-       height="17.193651"
-       width="299.93112"
-       id="rect3199"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="699.17175"
-       x="118.34425"
-       height="17.193651"
-       width="299.93112"
-       id="rect3203"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3205"
-       width="299.93112"
-       height="17.193651"
-       x="418.98425"
-       y="699.17175" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3207"
-       y="710.39758"
-       x="61.41296"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan3209"
-         x="61.41296"
-         y="710.39758">Activity 05</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3211"
-       width="299.93112"
-       height="17.193651"
-       x="713.61975"
-       y="699.17175" />
-    <rect
-       y="699.17175"
-       x="1014.2596"
-       height="17.193651"
-       width="299.93112"
-       id="rect3213"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="699.17175"
-       x="1308.8954"
-       height="17.193651"
-       width="299.93112"
-       id="rect3215"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3217"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="699.17175" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3221"
        width="299.93112"
        height="17.193651"
        x="118.34425"
-       y="779.17175" />
+       y="697.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="779.17175"
+       y="697.39203"
        x="418.98425"
        height="17.193651"
        width="299.93112"
        id="rect3223"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="61.41296"
-       y="790.39758"
+       x="55.41296"
+       y="708.61786"
        id="text3225"
-       sodipodi:linespacing="125%"><tspan
-         y="790.39758"
-         x="61.41296"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="708.61786"
+         x="55.41296"
          id="tspan3227"
-         sodipodi:role="line">Activity 06</tspan></text>
+         sodipodi:role="line">Activity 05</tspan></text>
     <rect
-       y="779.17175"
+       y="697.39203"
        x="713.61975"
        height="17.193651"
        width="299.93112"
        id="rect3229"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3231"
        width="299.93112"
        height="17.193651"
        x="1014.2596"
-       y="779.17175" />
+       y="697.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3233"
        width="299.93112"
        height="17.193651"
        x="1308.8954"
-       y="779.17175" />
+       y="697.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="779.17175"
-       x="1609.5352"
-       height="17.193651"
-       width="299.93112"
-       id="rect3235"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="859.17175"
+       y="777.39203"
        x="118.34425"
        height="17.193651"
        width="299.93112"
        id="rect3239"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3241"
        width="299.93112"
        height="17.193651"
        x="418.98425"
-       y="859.17175" />
+       y="777.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text3243"
-       y="870.39758"
-       x="61.41296"
+       y="788.61786"
+       x="55.41296"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3245"
-         x="61.41296"
-         y="870.39758">Activity 07</tspan></text>
+         x="55.41296"
+         y="788.61786">Activity 06</tspan></text>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3247"
        width="299.93112"
        height="17.193651"
        x="713.61975"
-       y="859.17175" />
+       y="777.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="859.17175"
+       y="777.39203"
        x="1014.2596"
        height="17.193651"
        width="299.93112"
        id="rect3249"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="859.17175"
+       y="777.39203"
        x="1308.8954"
        height="17.193651"
        width="299.93112"
        id="rect3251"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3253"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="859.17175" />
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3257"
        width="299.93112"
        height="17.193651"
        x="118.34425"
-       y="939.17175" />
+       y="857.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="939.17175"
+       y="857.39203"
        x="418.98425"
        height="17.193651"
        width="299.93112"
        id="rect3259"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="61.41296"
-       y="950.39758"
+       x="55.41296"
+       y="868.61786"
        id="text3261"
-       sodipodi:linespacing="125%"><tspan
-         y="950.39758"
-         x="61.41296"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="868.61786"
+         x="55.41296"
          id="tspan3263"
-         sodipodi:role="line">Activity 08</tspan></text>
+         sodipodi:role="line">Activity 07</tspan></text>
     <rect
-       y="939.17175"
+       y="857.39203"
        x="713.61975"
        height="17.193651"
        width="299.93112"
        id="rect3265"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3267"
        width="299.93112"
        height="17.193651"
        x="1014.2596"
-       y="939.17175" />
+       y="857.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3269"
        width="299.93112"
        height="17.193651"
        x="1308.8954"
-       y="939.17175" />
+       y="857.39203"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="939.17175"
-       x="1609.5352"
-       height="17.193651"
-       width="299.93112"
-       id="rect3271"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="1019.1718"
+       y="937.39209"
        x="118.34425"
        height="17.193651"
        width="299.93112"
        id="rect3275"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3277"
        width="299.93112"
        height="17.193651"
        x="418.98425"
-       y="1019.1718" />
+       y="937.39209"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        sodipodi:linespacing="125%"
        id="text3279"
-       y="1030.3976"
-       x="61.41296"
+       y="948.61786"
+       x="55.41296"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3281"
-         x="61.41296"
-         y="1030.3976">Activity 09</tspan></text>
+         x="55.41296"
+         y="948.61786">Activity 08</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3283"
        width="299.93112"
        height="17.193651"
        x="713.61975"
-       y="1019.1718" />
+       y="937.39209"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="1019.1718"
+       y="937.39209"
        x="1014.2596"
        height="17.193651"
        width="299.93112"
        id="rect3285"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="1019.1718"
+       y="937.39209"
        x="1308.8954"
        height="17.193651"
        width="299.93112"
        id="rect3287"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3289"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="1019.1718" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3293"
        width="299.93112"
        height="17.193651"
        x="118.34425"
-       y="1099.1718" />
+       y="1017.392"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       y="1099.1718"
+       y="1017.392"
        x="418.98425"
        height="17.193651"
        width="299.93112"
        id="rect3295"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="61.41296"
-       y="1110.3976"
+       x="55.41296"
+       y="1028.6179"
        id="text3297"
-       sodipodi:linespacing="125%"><tspan
-         y="1110.3976"
-         x="61.41296"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="1028.6179"
+         x="55.41296"
          id="tspan3299"
-         sodipodi:role="line">Activity 10</tspan></text>
+         sodipodi:role="line">Activity 09</tspan></text>
     <rect
-       y="1099.1718"
+       y="1017.392"
        x="713.61975"
        height="17.193651"
        width="299.93112"
        id="rect3301"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3303"
        width="299.93112"
        height="17.193651"
        x="1014.2596"
-       y="1099.1718" />
+       y="1017.392"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3305"
        width="299.93112"
        height="17.193651"
        x="1308.8954"
-       y="1099.1718" />
-    <rect
-       y="1099.1718"
-       x="1609.5352"
-       height="17.193651"
-       width="299.93112"
-       id="rect3307"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="1179.1718"
-       x="118.34425"
-       height="17.193651"
-       width="299.93112"
-       id="rect3311"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3313"
-       width="299.93112"
-       height="17.193651"
-       x="418.98425"
-       y="1179.1718" />
+       y="1017.392"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="33.496166"
+       y="404.57904"
+       id="text3228"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="404.57904"
+         x="33.496166"
+         id="tspan3230"
+         sodipodi:role="line">Field Research</tspan><tspan
+         id="tspan3232"
+         y="418.32904"
+         x="33.496166"
+         sodipodi:role="line" /></text>
     <text
        sodipodi:linespacing="125%"
-       id="text3315"
-       y="1190.3976"
-       x="61.41296"
+       id="text3247"
+       y="483.86627"
+       x="22.537769"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
-         id="tspan3317"
-         x="61.41296"
-         y="1190.3976">Activity 11</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3319"
-       width="299.93112"
-       height="17.193651"
-       x="713.61975"
-       y="1179.1718" />
-    <rect
-       y="1179.1718"
-       x="1014.2596"
-       height="17.193651"
-       width="299.93112"
-       id="rect3321"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="1179.1718"
-       x="1308.8954"
-       height="17.193651"
-       width="299.93112"
-       id="rect3323"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3325"
-       width="299.93112"
-       height="17.193651"
-       x="1609.5352"
-       y="1179.1718" />
+         id="tspan3249"
+         x="22.537769"
+         y="483.86627">Market Research</tspan><tspan
+         sodipodi:role="line"
+         x="22.537769"
+         y="497.61627"
+         id="tspan3251" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="32.537769"
+       y="565.7981"
+       id="text3266"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         id="tspan3270"
+         y="565.7981"
+         x="32.537769"
+         sodipodi:role="line">Brain Storming</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3309"
+       y="645.08533"
+       x="67.991402"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="67.991402"
+         y="645.08533"
+         id="tspan3311">Concept</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="65.412956"
+       y="723.88007"
+       id="text3325"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         id="tspan3327"
+         y="723.88007"
+         x="65.412956"
+         sodipodi:role="line">Software</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3341"
+       y="884.0343"
+       x="63.412956"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="63.412956"
+         y="884.0343"
+         id="tspan3343">User test</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="59.412956"
+       y="802.90027"
+       id="text3361"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         id="tspan3363"
+         y="802.90027"
+         x="59.412956"
+         sodipodi:role="line">Hardware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="47.412956"
+       y="964.25671"
+       id="text3377"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         id="tspan3379"
+         y="964.25671"
+         x="47.412956"
+         sodipodi:role="line">Final Design</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3393"
+       y="1044.6559"
+       x="31.003824"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/Timeline-block.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="31.003824"
+         y="1044.6559"
+         id="tspan3395">Documentation</tspan></text>
   </g>
 </svg>
