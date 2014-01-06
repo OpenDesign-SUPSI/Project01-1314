@@ -198,7 +198,7 @@
      units="mm"
      inkscape:window-width="784"
      inkscape:window-height="748"
-     inkscape:window-x="251"
+     inkscape:window-x="460"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -339,7 +339,7 @@
          id="flowPara3076">Prototype 2 (Tangible Prototype)</flowPara><flowPara
          id="flowPara3078" /><flowPara
          id="flowPara3080">(04) Mediating Artifacts:</flowPara><flowPara
-         id="flowPara3082">Processing, Eclipse, Code, Computers, Tablets/Phones, Electical circuits, Sensors, Wood, Material, Paint.</flowPara><flowPara
+         id="flowPara3082">Processing, Eclipse, Arduino, Code, Computers, Tablets/Phones, Electical circuits, Sensors, Wood, Material, Paint, Machines.</flowPara><flowPara
          id="flowPara3084" /><flowPara
          id="flowPara3086">(05) Rules:</flowPara><flowPara
          id="flowPara3088">Mechanical constrains, Physics, Sensors Schematics, Safety measures for children, Ergonomics.</flowPara><flowPara
