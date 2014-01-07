@@ -190,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77566092"
+     inkscape:zoom="0.38783046"
      inkscape:cx="203.46214"
-     inkscape:cy="748.97874"
+     inkscape:cy="594.27196"
      inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -339,7 +339,7 @@
          id="flowPara3076">Feedback analysis of the Research testing and results.</flowPara><flowPara
          id="flowPara3078" /><flowPara
          id="flowPara3080">(04) Mediating Artifacts:</flowPara><flowPara
-         id="flowPara3082">User testing research tools including: in-depth interviews, Documentation tools (Paper, pen, Camera, audio recorder).</flowPara><flowPara
+         id="flowPara3082">Project prototype, user testing research tools including: in-depth interviews, Documentation tools (Paper, pen, Camera, audio recorder).</flowPara><flowPara
          id="flowPara3084" /><flowPara
          id="flowPara3086">(05) Rules:</flowPara><flowPara
          id="flowPara3088">Ethical and cultural boundries. </flowPara><flowPara
