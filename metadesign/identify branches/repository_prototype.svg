@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="repository_concept.svg"
+   sodipodi:docname="repository_prototype.svg"
    inkscape:export-filename="../02.analysis_personas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -1772,15 +1772,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1071518"
-     inkscape:cx="220.46751"
-     inkscape:cy="884.87175"
+     inkscape:cx="278.07895"
+     inkscape:cy="808.93987"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
-     inkscape:window-x="117"
-     inkscape:window-y="14"
+     inkscape:window-width="1561"
+     inkscape:window-height="799"
+     inkscape:window-x="57"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -1821,7 +1821,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1851,7 +1851,7 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="58.604198"
+       x="73.894241"
        y="97.161293"
        id="text7737"
        sodipodi:linespacing="125%"
@@ -1860,8 +1860,8 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan7739"
-         x="58.604198"
-         y="97.161293">Field research</tspan></text>
+         x="73.894241"
+         y="97.161293">Software</tspan></text>
     <rect
        y="119.95229"
        x="42.194813"
@@ -1884,16 +1884,16 @@
        sodipodi:linespacing="125%"
        id="text7747"
        y="137.64351"
-       x="51.807323"
+       x="71.169632"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        xml:space="preserve"
        inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          y="137.64351"
-         x="51.807323"
+         x="71.169632"
          id="tspan7749"
-         sodipodi:role="line">Market research</tspan></text>
+         sodipodi:role="line">Hardware</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.45606461;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect7751"
@@ -1915,7 +1915,7 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="56.090527"
+       x="64.044632"
        y="179.41087"
        id="text7755"
        sodipodi:linespacing="125%"
@@ -1924,8 +1924,8 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan7757"
-         x="56.090527"
-         y="179.41087">Brain storming</tspan></text>
+         x="64.044632"
+         y="179.41087">User testing</tspan></text>
     <g
        style="fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1573.5813,-287.64793)"
@@ -2002,7 +2002,7 @@
              y="531.33685"
              x="126.53753"
              id="tspan6714"
-             sodipodi:role="line">Project Concept</tspan></text>
+             sodipodi:role="line">Prototype</tspan></text>
       </g>
     </g>
     <g
@@ -3981,16 +3981,80 @@
        sodipodi:linespacing="125%"
        id="text4107"
        y="221.64798"
-       x="52.703808"
+       x="63.889355"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        xml:space="preserve"
        inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          y="221.64798"
-         x="52.703808"
+         x="63.889355"
          id="tspan4109"
-         sodipodi:role="line">Project Concept</tspan></text>
+         sodipodi:role="line">Final Design</tspan></text>
+    <rect
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.45606461;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4051"
+       width="116.47307"
+       height="26.886406"
+       x="41.720238"
+       y="244.77014" />
+    <path
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.41732283, 2.83464567;stroke-dashoffset:0"
+       d="m 161.80929,258.21336 c 298.54693,0 296.98386,0 296.98386,0"
+       id="path4053"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       x="76.238022"
+       y="262.46136"
+       id="text4055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4057"
+         x="76.238022"
+         y="262.46136">Release</tspan></text>
+    <rect
+       y="286.05811"
+       x="41.720238"
+       height="26.886406"
+       width="116.47307"
+       id="rect4073"
+       style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.45606461;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4075"
+       d="m 161.80929,299.50132 c 298.54693,0 296.98386,0 296.98386,0"
+       style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.41732283, 2.83464567;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4077"
+       y="303.74933"
+       x="76.238022"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/Marco/Documenti/Scuola/MAIND/CAS2/2.2 Design with the User : from User-Centered Design to Open Design/Project01-1314/metadesign/identify branches/repository_concept.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="303.74933"
+         x="76.238022"
+         id="tspan4079"
+         sodipodi:role="line">Building</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
