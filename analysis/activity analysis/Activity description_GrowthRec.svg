@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="activity-block.svg"
+   sodipodi:docname="Activity description_GrowthRec.svg"
    inkscape:export-filename="../02.analysis_personas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -276,7 +276,7 @@
        width="471.36356"
        id="rect3190"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.97660637;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename="/Users/monadiab/Dropbox/CAS2 project/Github/Activity Analysis/flowRoot4329.png"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/analysis/activity analysis/Activity description_GrowthRec.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -286,7 +286,7 @@
        y="152.51514"
        id="text6293"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/monadiab/Dropbox/CAS2 project/Github/Activity Analysis/flowRoot4329.png"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/analysis/activity analysis/Activity description_GrowthRec.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -320,7 +320,8 @@
        id="flowRoot4329"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/analysis/activity analysis/Activity description_GrowthRec.png"><flowRegion
          id="flowRegion4331"><rect
            id="rect4333"
            width="466.7486"
@@ -332,10 +333,10 @@
          id="flowPara3064">Marco Lurati and Mona Diab; students at Maind interaction design master program Supsi.</flowPara><flowPara
          id="flowPara3066" /><flowPara
          id="flowPara3068">(02) Object:</flowPara><flowPara
-         id="flowPara3070">Create a system for parents to monitor the growth of their children using their height, pictures, and voice and to save those memories.</flowPara><flowPara
+         id="flowPara3070">A device that assist parents to monitor their children growth and document their memories.</flowPara><flowPara
          id="flowPara3072" /><flowPara
          id="flowPara3074">(03) Outcome:</flowPara><flowPara
-         id="flowPara3076">A device that assist parents to monitor their children growth and document their memories. </flowPara><flowPara
+         id="flowPara3065">Create a system for parents to monitor the growth of their children using their height, pictures, and voice and to save those memories. </flowPara><flowPara
          id="flowPara3078" /><flowPara
          id="flowPara3080">(04) Mediating Artifacts:</flowPara><flowPara
          id="flowPara3082">Arduino, Processing, Rhinoceros, Laser cut machine.</flowPara><flowPara
