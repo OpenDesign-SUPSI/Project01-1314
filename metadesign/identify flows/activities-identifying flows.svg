@@ -1611,9 +1611,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3436978"
-     inkscape:cx="895.01616"
-     inkscape:cy="528.64405"
+     inkscape:zoom="0.48606209"
+     inkscape:cx="779.79415"
+     inkscape:cy="482.20226"
      inkscape:current-layer="g7418"
      showgrid="true"
      units="mm"
@@ -11233,11 +11233,11 @@
         <g
            id="g8608">
           <rect
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.08164433;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect8602"
-             width="50.665783"
+             width="54.554371"
              height="9.6094246"
-             x="285.11108"
+             x="283.11108"
              y="619.58472" />
           <text
              xml:space="preserve"
@@ -11249,7 +11249,7 @@
                sodipodi:role="line"
                id="tspan8606"
                x="310.39944"
-               y="625.81903">information flow</tspan></text>
+               y="625.81903">research findings</tspan></text>
         </g>
       </g>
     </g>
@@ -11272,11 +11272,11 @@
            id="g8646">
           <rect
              y="619.58472"
-             x="285.11108"
+             x="282.9187"
              height="9.6094246"
-             width="50.665783"
+             width="54.858189"
              id="rect8648"
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.08187136;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <text
              sodipodi:linespacing="125%"
              id="text8650"
@@ -11287,7 +11287,7 @@
                y="625.81903"
                x="310.39944"
                id="tspan8652"
-               sodipodi:role="line">information flow</tspan></text>
+               sodipodi:role="line">research findings</tspan></text>
         </g>
       </g>
     </g>
@@ -11309,11 +11309,11 @@
         <g
            id="g8681">
           <rect
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.08110037;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect8683"
-             width="50.665783"
+             width="53.829849"
              height="9.6094246"
-             x="285.11108"
+             x="283.94702"
              y="619.58472" />
           <text
              xml:space="preserve"
@@ -11325,7 +11325,7 @@
                sodipodi:role="line"
                id="tspan8687"
                x="310.39944"
-               y="625.81903">information flow</tspan></text>
+               y="625.81903">research findings</tspan></text>
         </g>
       </g>
     </g>
@@ -11346,11 +11346,11 @@
          transform="translate(-77.150638,47.833395)">
         <rect
            y="619.58472"
-           x="285.11108"
+           x="298.95816"
            height="9.6094246"
-           width="50.665783"
+           width="24.005453"
            id="rect8712"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.05415846;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            sodipodi:linespacing="125%"
            id="text8714"
@@ -11361,110 +11361,68 @@
              y="625.81903"
              x="310.39944"
              id="tspan8716"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">ideas</tspan></text>
       </g>
     </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8744"
+       d="m 468.46936,545.57869 c 21.24928,-14.38658 157.61703,-82.85757 285.73761,-17.2506"
+       style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       transform="translate(269.38137,-33.996448)"
-       id="g8742"
+       transform="translate(346.9367,-124.11457)"
+       id="g8774"
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <g
-         id="g5879">
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path8744"
-           d="m 199.08799,579.57514 c 21.24928,-14.38658 157.61703,-82.85757 285.73761,-17.2506"
-           style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)" />
-        <g
-           transform="translate(77.555331,-90.118121)"
-           id="g8774">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="rect8746"
-             width="50.665783"
-             height="9.6094246"
-             x="285.11108"
-             y="619.58472" />
-          <text
-             xml:space="preserve"
-             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-             x="310.39944"
-             y="625.81903"
-             id="text8748"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan8750"
-               x="310.39944"
-               y="625.81903">information flow</tspan></text>
-        </g>
-      </g>
-      <g
-         id="g5904"
-         transform="translate(237.12692,61.827571)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
-           d="m 199.08799,579.57514 c 4.51947,32.89333 181.62068,68.43813 178.81228,-80.53294"
-           id="path5906"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <g
-           id="g5908"
-           transform="translate(65.9172,-86.481205)">
-          <rect
-             y="619.58472"
-             x="285.11108"
-             height="9.6094246"
-             width="50.665783"
-             id="rect5910"
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text5912"
-             y="625.81903"
-             x="310.39944"
-             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-             xml:space="preserve"><tspan
-               y="625.81903"
-               x="310.39944"
-               id="tspan5914"
-               sodipodi:role="line">information flow</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="translate(73.465704,170.20767)"
-         id="g5934">
-        <path
-           sodipodi:nodetypes="csc"
-           inkscape:connector-curvature="0"
-           id="path5936"
-           d="m 200.54276,583.93944 c 1.61876,62.79079 112.06527,125.32039 205.90728,100.87458 126.79827,-33.0309 247.07009,-133.72689 141.6579,-297.06145"
-           style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)" />
-        <g
-           transform="translate(217.94029,2.9869266)"
-           id="g5938">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="rect5940"
-             width="50.665783"
-             height="9.6094246"
-             x="285.11108"
-             y="619.58472" />
-          <text
-             xml:space="preserve"
-             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-             x="310.39944"
-             y="625.81903"
-             id="text5942"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan5944"
-               x="310.39944"
-               y="625.81903">information flow</tspan></text>
-        </g>
-      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect8746"
+         width="50.665783"
+         height="9.6094246"
+         x="285.11108"
+         y="619.58472" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+         x="310.39944"
+         y="625.81903"
+         id="text8748"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8750"
+           x="310.39944"
+           y="625.81903">refined concept</tspan></text>
+    </g>
+    <g
+       transform="translate(506.50829,27.831123)"
+       id="g5904"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5906"
+         d="m 199.08799,579.57514 c 4.51947,32.89333 181.62068,68.43813 178.81228,-80.53294"
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)" />
+    </g>
+    <g
+       id="g5934"
+       transform="translate(342.84707,136.21122)"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
+         d="m 200.54276,583.93944 c 1.61876,62.79079 112.06527,125.32039 205.90728,100.87458 126.79827,-33.0309 247.07009,-133.72689 141.6579,-297.06145"
+         id="path5936"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
     </g>
     <g
        id="g8799"
@@ -11478,28 +11436,12 @@
          id="path8801"
          d="m 197.61212,546.59688 c 36.28921,-7.92955 130.98389,-28.10249 131.23628,87.19474"
          style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)" />
-      <g
-         transform="translate(13.082192,-24.100761)"
-         id="g8803">
-        <rect
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect8805"
-           width="50.665783"
-           height="9.6094246"
-           x="285.11108"
-           y="619.58472" />
-        <text
-           xml:space="preserve"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           x="310.39944"
-           y="625.81903"
-           id="text8807"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan8809"
-             x="310.39944"
-             y="625.81903">information flow</tspan></text>
-      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
+         d="m 197.61212,546.59688 c 36.28921,-7.92955 130.98389,-28.10249 131.23628,87.19474"
+         id="path6092"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        transform="translate(305.92702,39.405022)"
@@ -11507,34 +11449,70 @@
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <g
-         id="g8835"
-         transform="translate(33.506886,-37.559186)">
-        <rect
-           y="619.58472"
-           x="285.11108"
-           height="9.6094246"
-           width="50.665783"
-           id="rect8837"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text8839"
-           y="625.81903"
-           x="310.39944"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           xml:space="preserve"><tspan
-             y="625.81903"
-             x="310.39944"
-             id="tspan8841"
-             sodipodi:role="line">information flow</tspan></text>
-      </g>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path8858"
          d="m 389.42825,561.49384 c -9.96571,-0.61288 -62.3494,4.52195 -63.64003,66.84241"
          style="fill:none;stroke:#000000;stroke-width:1.41732287000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862000000042, 4.25196862000000042;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
+      <g
+         id="g8835"
+         transform="translate(33.506886,-37.559186)">
+        <g
+           id="g6175">
+          <rect
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09161115;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="rect8837"
+             width="38.223896"
+             height="17.26778"
+             x="289.96954"
+             y="619.58472" />
+          <text
+             xml:space="preserve"
+             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+             x="310.39944"
+             y="625.81903"
+             id="text8839"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8841"
+               x="311.45413"
+               y="625.81903">Hardware </tspan><tspan
+               id="tspan6173"
+               sodipodi:role="line"
+               x="310.39944"
+               y="633.31903">restriction</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(220.44436,116.64605)"
+         id="g6197">
+        <g
+           id="g6200">
+          <rect
+             y="619.58472"
+             x="289.96954"
+             height="17.26778"
+             width="38.223896"
+             id="rect6202"
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09161115;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6204"
+             y="625.81903"
+             x="310.39944"
+             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+             xml:space="preserve"><tspan
+               y="625.81903"
+               x="311.45413"
+               id="tspan6206"
+               sodipodi:role="line">Hardware </tspan><tspan
+               y="633.31903"
+               x="310.39944"
+               sodipodi:role="line"
+               id="tspan6208">restriction</tspan></text>
+        </g>
+      </g>
     </g>
     <g
        transform="translate(500.13833,-117.70975)"
@@ -11542,16 +11520,22 @@
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path8933"
+         d="m 255.74742,475.40155 c -116.25871,-1.68666 -100.4404,97.08662 -33.36211,107.43993 41.50253,6.40577 104.71338,10.62452 101.91526,90.7262"
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
       <g
          id="g8925"
-         transform="translate(-145.75987,-98.859877)">
+         transform="translate(-141.75926,-98.859877)">
         <rect
            y="619.58472"
-           x="285.11108"
+           x="293.43286"
            height="9.6094246"
-           width="50.665783"
+           width="34.383709"
            id="rect8927"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.06481681;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            sodipodi:linespacing="125%"
            id="text8929"
@@ -11562,49 +11546,46 @@
              y="625.81903"
              x="310.39944"
              id="tspan8931"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">software</tspan></text>
       </g>
-      <path
-         sodipodi:nodetypes="csc"
-         inkscape:connector-curvature="0"
-         id="path8933"
-         d="m 255.74742,475.40155 c -116.25871,-1.68666 -100.4404,97.08662 -33.36211,107.43993 41.50253,6.40577 104.71338,10.62452 101.91526,90.7262"
-         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
+       d="m 832.82746,384.06328 c 22.27546,-12.58259 112.49986,-32.25817 111.57736,58.03259"
+       id="path9006"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g9004"
-       transform="translate(576.95525,-202.69918)"
+       id="g9008"
+       transform="translate(617.07358,-232.53076)"
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path9006"
-         d="m 255.87221,586.76246 c 22.27546,-12.58259 112.49986,-32.25817 111.57736,58.03259"
-         style="fill:none;stroke:#000000;stroke-width:1.41732287000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862000000042, 4.25196862000000042;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)" />
-      <g
-         transform="translate(40.118331,-29.831579)"
-         id="g9008">
-        <rect
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect9010"
-           width="50.665783"
-           height="9.6094246"
-           x="285.11108"
-           y="619.58472" />
-        <text
-           xml:space="preserve"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           x="310.39944"
+      <rect
+         y="619.58472"
+         x="289.0788"
+         height="17.261765"
+         width="42.375057"
+         id="rect9010"
+         style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09644069;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9012"
+         y="625.81903"
+         x="310.39944"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+         xml:space="preserve"><tspan
            y="625.81903"
-           id="text9012"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan9014"
-             x="310.39944"
-             y="625.81903">information flow</tspan></text>
-      </g>
+           x="311.45413"
+           id="tspan9014"
+           sodipodi:role="line">final tested </tspan><tspan
+           id="tspan6268"
+           y="633.31903"
+           x="310.39944"
+           sodipodi:role="line">project</tspan></text>
     </g>
     <g
        transform="translate(376.69731,-6.6128284)"
@@ -11612,16 +11593,22 @@
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path9046"
+         d="m 381.70369,358.98996 c -46.36956,-23.85408 -115.17304,0.18663 -129.59733,30.96734 -51.15421,109.16054 26.17048,145.00951 46.61516,217.18263 12.96707,45.77592 8.42949,71.81241 -5.2812,72.35021"
+         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
       <g
          id="g9038"
-         transform="translate(-27.685346,-67.332801)">
+         transform="translate(-35.40041,-72.990514)">
         <rect
            y="619.58472"
            x="285.11108"
-           height="9.6094246"
+           height="17.345135"
            width="50.665783"
            id="rect9040"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.10570823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            sodipodi:linespacing="125%"
            id="text9042"
@@ -11630,16 +11617,14 @@
            style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
            xml:space="preserve"><tspan
              y="625.81903"
-             x="310.39944"
+             x="311.45413"
              id="tspan9044"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">laser cut files </tspan><tspan
+             y="633.31903"
+             x="310.39944"
+             sodipodi:role="line"
+             id="tspan6171">and schematics</tspan></text>
       </g>
-      <path
-         sodipodi:nodetypes="cssc"
-         inkscape:connector-curvature="0"
-         id="path9046"
-         d="m 381.70369,358.98996 c -46.36956,-23.85408 -115.17304,0.18663 -129.59733,30.96734 -51.15421,109.16054 26.17048,145.00951 46.61516,217.18263 12.96707,45.77592 8.42949,71.81241 -5.2812,72.35021"
-         style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862, 4.25196862;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
     </g>
     <g
        transform="translate(606.05058,-173.60385)"
@@ -11673,7 +11658,7 @@
              y="625.81903"
              x="310.39944"
              id="tspan9078"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">areas of testing</tspan></text>
       </g>
     </g>
     <g
@@ -11708,7 +11693,7 @@
              sodipodi:role="line"
              id="tspan9110"
              x="310.39944"
-             y="625.81903">information flow</tspan></text>
+             y="625.81903">documentation</tspan></text>
       </g>
     </g>
     <g
@@ -11717,28 +11702,6 @@
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <g
-         transform="translate(220.636,-104.12806)"
-         id="g9145">
-        <rect
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect9147"
-           width="50.665783"
-           height="9.6094246"
-           x="285.11108"
-           y="619.58472" />
-        <text
-           xml:space="preserve"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           x="310.39944"
-           y="625.81903"
-           id="text9149"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan9151"
-             x="310.39944"
-             y="625.81903">information flow</tspan></text>
-      </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.41732287000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.25196862000000042, 4.25196862000000042;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
          d="m 296.91768,481.51121 c 97.55961,52.3096 255.59826,-3.31088 254.14628,63.90336"
@@ -11763,11 +11726,11 @@
          transform="translate(-156.80277,32.708233)">
         <rect
            y="619.58472"
-           x="285.11108"
-           height="9.6094246"
-           width="50.665783"
+           x="273.80249"
+           height="16.618597"
+           width="73.288849"
            id="rect9181"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.12444536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            sodipodi:linespacing="125%"
            id="text9183"
@@ -11778,44 +11741,48 @@
              y="625.81903"
              x="310.39944"
              id="tspan9185"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">hardware development</tspan><tspan
+             y="633.31903"
+             x="310.39944"
+             sodipodi:role="line"
+             id="tspan6212">documentation</tspan></text>
+      </g>
+      <g
+         transform="translate(29.771017,-52.759291)"
+         id="g6229">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.12444536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6231"
+           width="73.288849"
+           height="16.618597"
+           x="273.80249"
+           y="619.58472" />
+        <text
+           xml:space="preserve"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           x="310.39944"
+           y="625.81903"
+           id="text6233"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6235"
+             x="310.39944"
+             y="625.81903">software development</tspan><tspan
+             id="tspan6237"
+             sodipodi:role="line"
+             x="310.39944"
+             y="633.31903">documentation</tspan></text>
       </g>
     </g>
-    <g
-       transform="translate(283.37814,-24.604699)"
-       id="g9207"
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.2519685, 4.2519685;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none"
+       d="M 1046.1847,635.47909 C 894.23301,640.86855 806.87055,755.88042 695.14319,802.62706 621.52692,833.42805 510.12133,805.46572 515.76413,708.27597 522.45722,592.9963 454.80795,555.6821 435.67216,550.38925"
+       id="path9217"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
        inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g9209"
-         transform="translate(-80.500639,53.714097)">
-        <rect
-           y="619.58472"
-           x="285.11108"
-           height="9.6094246"
-           width="50.665783"
-           id="rect9211"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text9213"
-           y="625.81903"
-           x="310.39944"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           xml:space="preserve"><tspan
-             y="625.81903"
-             x="310.39944"
-             id="tspan9215"
-             sodipodi:role="line">information flow</tspan></text>
-      </g>
-      <path
-         sodipodi:nodetypes="cssc"
-         inkscape:connector-curvature="0"
-         id="path9217"
-         d="M 762.8066,660.08379 C 610.85487,665.47325 523.49241,780.48512 411.76505,827.23176 338.14878,858.03275 226.74319,830.07042 232.38599,732.88067 239.07908,617.601 171.42981,580.2868 152.29402,574.99395"
-         style="fill:none;stroke:#000000;stroke-width:1.41732283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.2519685,4.2519685;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none" />
-    </g>
+       inkscape:export-ydpi="90" />
     <g
        id="g9240"
        transform="translate(250.94046,-64.012319)"
@@ -11835,11 +11802,11 @@
            id="g9246">
           <rect
              y="619.58472"
-             x="285.11108"
-             height="9.6094246"
-             width="50.665783"
+             x="292.7739"
+             height="17.858238"
+             width="36.628498"
              id="rect9248"
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09119931;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <text
              sodipodi:linespacing="125%"
              id="text9250"
@@ -11850,7 +11817,40 @@
                y="625.81903"
                x="310.39944"
                id="tspan9252"
-               sodipodi:role="line">information flow</tspan></text>
+               sodipodi:role="line">software</tspan><tspan
+               y="633.31903"
+               x="310.39944"
+               sodipodi:role="line"
+               id="tspan6210">restriction</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6256"
+         transform="translate(298.03613,41.435898)">
+        <g
+           id="g6258">
+          <rect
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09119931;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="rect6260"
+             width="36.628498"
+             height="17.858238"
+             x="292.7739"
+             y="619.58472" />
+          <text
+             xml:space="preserve"
+             style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+             x="310.39944"
+             y="625.81903"
+             id="text6262"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6264"
+               x="310.39944"
+               y="625.81903">software</tspan><tspan
+               id="tspan6266"
+               sodipodi:role="line"
+               x="310.39944"
+               y="633.31903">restriction</tspan></text>
         </g>
       </g>
     </g>
@@ -11872,11 +11872,11 @@
         <g
            id="g14068">
           <rect
-             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.0886865;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect14070"
-             width="50.665783"
+             width="64.371323"
              height="9.6094246"
-             x="285.11108"
+             x="278.38846"
              y="619.58472" />
           <text
              xml:space="preserve"
@@ -11888,7 +11888,7 @@
                sodipodi:role="line"
                id="tspan14074"
                x="310.39944"
-               y="625.81903">information flow</tspan></text>
+               y="625.81903">ideas and questions</tspan></text>
         </g>
       </g>
     </g>
@@ -11924,7 +11924,7 @@
              y="625.81903"
              x="310.39944"
              id="tspan7318"
-             sodipodi:role="line">information flow</tspan></text>
+             sodipodi:role="line">research results</tspan></text>
       </g>
     </g>
     <g
@@ -11965,7 +11965,7 @@
              sodipodi:role="line"
              id="tspan7348"
              x="310.39944"
-             y="625.81903">information flow</tspan></text>
+             y="625.81903">research results</tspan></text>
       </g>
     </g>
     <g
@@ -12617,28 +12617,6 @@
          id="path6357"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
-      <g
-         id="g6359"
-         transform="translate(33.902157,-146.44107)">
-        <rect
-           y="619.58472"
-           x="285.11108"
-           height="9.6094246"
-           width="50.665783"
-           id="rect6361"
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text6363"
-           y="625.81903"
-           x="310.39944"
-           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-           xml:space="preserve"><tspan
-             y="625.81903"
-             x="310.39944"
-             id="tspan6365"
-             sodipodi:role="line">information flow</tspan></text>
-      </g>
     </g>
     <g
        id="g6385"
@@ -12732,11 +12710,11 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90">
         <rect
-           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.0823276;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect7424"
-           width="50.665783"
+           width="55.471306"
            height="9.6094246"
-           x="285.11108"
+           x="282.30557"
            y="619.58472" />
         <text
            xml:space="preserve"
@@ -12748,8 +12726,90 @@
              sodipodi:role="line"
              id="tspan7428"
              x="310.39944"
-             y="625.81903">information flow</tspan></text>
+             y="625.81903">building inquiries</tspan></text>
       </g>
+    </g>
+    <g
+       id="g6122"
+       transform="translate(274.4151,-50.049957)"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="619.58472"
+         x="285.11108"
+         height="9.6094246"
+         width="50.665783"
+         id="rect6124"
+         style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6126"
+         y="625.81903"
+         x="310.39944"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+         xml:space="preserve"><tspan
+           y="625.81903"
+           x="310.39944"
+           id="tspan6128"
+           sodipodi:role="line">refined concept</tspan></text>
+    </g>
+    <g
+       transform="translate(202.8775,29.109398)"
+       id="g9209"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g6160">
+        <rect
+           y="619.58472"
+           x="285.11108"
+           height="9.6094246"
+           width="50.665783"
+           id="rect9211"
+           style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.07868078;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text9213"
+           y="625.81903"
+           x="310.39944"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           xml:space="preserve"><tspan
+             y="625.81903"
+             x="310.39944"
+             id="tspan9215"
+             sodipodi:role="line">draft concepts</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(749.82101,-262.35347)"
+       id="g6286"
+       inkscape:export-filename="/Users/monadiab/Documents/Mona Diab/Study/Maind_supsi/CAS2/Open_Design/Github/Project01-1314/metadesign/identify flows/activities-identifying flows.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.09644069;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect6288"
+         width="42.375057"
+         height="17.261765"
+         x="289.0788"
+         y="619.58472" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+         x="310.39944"
+         y="625.81903"
+         id="text6290"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6292"
+           x="311.45413"
+           y="625.81903">final tested </tspan><tspan
+           sodipodi:role="line"
+           x="310.39944"
+           y="633.31903"
+           id="tspan6294">project</tspan></text>
     </g>
   </g>
 </svg>
